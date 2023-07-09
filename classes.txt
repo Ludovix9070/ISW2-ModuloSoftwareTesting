@@ -1,0 +1,7 @@
+BOOKKEEPER, modulo bookkeeper-server:
+org.apache.bookkeeper.bookie.storage.ldb.WriteCache.java
+org.apache.bookkeeper.proto.checksum.DigestManager.java
+
+SYNCOPE, modulo core/spring:
+org.apache.syncope.core.spring.security.Encryptor.java
+org.apache.syncope.core.spring.security.DefaultPasswordGenerator.java
